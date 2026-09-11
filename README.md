@@ -5,10 +5,10 @@
 * Sara Ximena Machado
 * Mariana López Díaz
 
-## Descripción del proyecto
+## Descripción del caso
 
-Este proyecto consiste en el diseño de una base de datos para una red social estudiantil llamada **Red Social Pascualina**.
+La **Red Social Pascualina** es una propuesta de red social para estudiantes, creada con el propósito de facilitar la comunicación, interacción y colaboración entre ellos.
 
-La plataforma busca facilitar la comunicación y la interacción entre los estudiantes, permitiéndoles crear perfiles, compartir publicaciones, encontrar compañeros con intereses similares, formar grupos de estudio, participar en actividades y organizar eventos académicos o sociales.
+La plataforma permitirá que los estudiantes creen su perfil, compartan publicaciones, sigan a otros compañeros, participen en grupos, asistan a eventos y establezcan espacios de mentoría.
 
-El proyecto hace parte de la asignatura **Bases de Datos 1** y tiene como objetivo desarrollar el modelo conceptual de la base de datos utilizando el **Modelo Entidad-Relación (MER)**.
+Este proyecto corresponde al diseño del **Modelo Entidad-Relación (MER)** para la asignatura **Bases de Datos 1**.
